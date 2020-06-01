@@ -1,0 +1,8 @@
+Requiements of running our code are as following:
+
+1. Python 3.7.
+2. Jupyter notebook.
+3. Python libraries: matplotlib, seaborn, pandas, numpy, scipy, statsmodels and math.
+
+We run this code on a workstation with Linux os (ubuntu 19.01).
+
