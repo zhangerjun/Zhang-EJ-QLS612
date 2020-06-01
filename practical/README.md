@@ -12,8 +12,8 @@ The analysis can be run on a Jupyter Notebook environment once the right install
 ## Outputs
 
 The notebook "practical/myanalysis.ipynb" generates :
-1. An overview of the content of "brainsize.csv" (head() method)
+1. An overview of the content of "brainsize.csv"
 2. A summary of the model used in the analysis
-3. A scatterplot (Fig.1)
+3. A scatterplot
 4. Two outputs of Pearson's R and p-value
 
