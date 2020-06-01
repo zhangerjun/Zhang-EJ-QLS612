@@ -2,18 +2,27 @@
 
 ## Description
 
-This work contains QLSC 612 assignment related document.
+This work contains QLSC 612 assignment related document. 
 
-A notebook  document "myanalysis.ipynb" was created to check illustrate phenomenon of p-hacking.
+'brainsize.csv' is the dataset we used in this assignment.
 
-Necessary tools and libraries to install please see "requirements.txt"
-The analysis can be run on a Jupyter Notebook environment once the right installations are done.
+Document 'practical-assignment.md' discribed requirements of this assignment, details about work submitting as well as FAQ.
+
+A notebook  document "myanalysis.ipynb" was created to check illustrate phenomenon of p-hacking. It recorded the procedure we used to find assorciation (model) with 'partY' and test if this model can be applied on 'partY'.
+
+'requirement.txt' shows all necessary tools and libraries installed to complete this assignment.
+
 
 ## Outputs
 
-The notebook "practical/myanalysis.ipynb" generates :
-1. An overview of the content of "brainsize.csv"
-2. A summary of the model used in the analysis
-3. A scatterplot
-4. Two outputs of Pearson's R and p-value
+All the outputs are in document 'myanalysis.ipynb', including
 
+1. Original "brainsize.csv" and dataset (data2) after data cleaning;
+2. Figure of partY distribution;
+3. Figure of partY2 distribution;
+4. Figure of relationship among different variables in data2;
+5. A summary of the model used in the analysis (partY)
+6. A summary of the model used in the analysis (partY2)
+7. Two outputs of Pearson's R and p-value
+
+If you have any other quesiton about this assignment, please send email to erjun.zhang@polymtl.ca. I am happy to discuss questions about it. Thanks.
